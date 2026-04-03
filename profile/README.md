@@ -20,6 +20,7 @@ We organize workshops, hackathons, seminars, and project competitions that help 
 
 | Name | Role |
 |------|------|
+| Raahil Desai | Gen. Secretary |
 | Deep Joshi | Technical Head |
 
 > *Deep Joshi serves as a key contributor and **Technical Head** of the IEEE Computer Society at Nirma University, driving technical initiatives and leading the development team.*
