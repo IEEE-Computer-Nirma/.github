@@ -26,10 +26,11 @@ We organize workshops, hackathons, seminars, and project competitions that help 
 
 ## Get Involved
 
-Whether you're a first-year student or a final-year researcher, there's a place for you in our chapter. Explore our repositories, contribute to ongoing projects, and connect with us:
+Whether you're a first-year student or a researcher, there's a place for you in our chapter. Explore our repositories, contribute to ongoing projects, and connect with us:
 
+- 🌐 [IEEE Computer Society Nirma University](https://ieee-cs-nirma.vercel.app/)
 - 🌐 [Nirma University](https://nirmauni.ac.in/)
-- 🔗 [IEEE Computer Society](https://www.computer.org/)
+- 🌐 [IEEE Computer Society](https://www.computer.org/)
 
 ---
 
