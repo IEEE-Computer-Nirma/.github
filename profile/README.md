@@ -21,6 +21,7 @@ We organize workshops, hackathons, seminars, and project competitions that help 
 | Name |
 |------|
 | Deep Joshi |
+| Palak Sinojia |
 | Raahil Desai |
 
 
