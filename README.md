@@ -40,48 +40,48 @@ Through our community, students get opportunities to:
 
 ## 👥 Our Board
 
-### 🏛️ Leadership
+### Leadership
 
 | Position | Name |
 |----------|------|
-| 👑 **Chair** | Deep Joshi |
-| 🤝 **Vice-Chair** | Franky Patel |
-| 📋 **General Secretary** | Divy Shah |
-| 📝 **Joint Secretary** | Vedanshi Malay Bhatt |
+| **Chair** | Deep Joshi |
+| **Vice-Chair** | Franky Patel |
+| **General Secretary** | Divy Shah |
+| **Joint Secretary** | Vedanshi Malay Bhatt |
 
-### 💰 Finance
-
-| Position | Name |
-|----------|------|
-| 💵 **Treasurer** | Sakshi Chavda |
-| 💵 **Treasurer** | Mahi Acharya |
-
-### ⚙️ Technical Team
+### Finance
 
 | Position | Name |
 |----------|------|
-| 💻 **Technical Head** | Palak Sinojia |
-| 💻 **Technical Head** | Priyansh Patel |
+| **Treasurer** | Sakshi Chavda |
+| **Treasurer** | Mahi Acharya |
 
-### 🌐 Web Team
-
-| Position | Name |
-|----------|------|
-| 🌐 **WebMaster** | Meet Patel |
-| 🌐 **WebMaster** | Ridham Shah |
-
-### 🎨 Creatives & Documentation
+### Technical Team
 
 | Position | Name |
 |----------|------|
-| 🎨 **Creatives & Documentation** | Vishva Ghori |
+| **Technical Head** | Palak Sinojia |
+| **Technical Head** | Priyansh Patel |
 
-### 📣 Marketing & Sponsorship
+### Web Team
 
 | Position | Name |
 |----------|------|
-| 📣 **Marketing & Sponsorship** | Neha Siju |
-| 📣 **Marketing & Sponsorship** | Pari Pancholi |
+| **WebMaster** | Meet Patel |
+| **WebMaster** | Ridham Shah |
+
+### Creatives & Documentation
+
+| Position | Name |
+|----------|------|
+| **Creatives & Documentation** | Vishva Ghori |
+
+### Marketing & Sponsorship
+
+| Position | Name |
+|----------|------|
+| **Marketing & Sponsorship** | Neha Siju |
+| **Marketing & Sponsorship** | Pari Pancholi |
 
 ## 🌟 Our Vision
 
