@@ -83,9 +83,9 @@ Our technical community works on projects that provide practical experience in s
 | Position | Name |
 |----------|------|
 | **Chair** | Deep Joshi |
-| **Vice-Chair** | Franky Patel |
+| **Vice-Chair** | Vedanshi Bhatt |
 | **General Secretary** | Divy Shah |
-| **Joint Secretary** | Vedanshi Malay Bhatt |
+| **Joint Secretary** | Franky Patel |
 
 ### Finance
 
