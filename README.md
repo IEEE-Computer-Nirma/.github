@@ -74,7 +74,7 @@ Through our community, students get opportunities to:
 
 | Position | Name |
 |----------|------|
-| **Creatives & Documentation** | Vishva Ghori |
+| **Creatives & Documentation** | Vishwa Ghori |
 
 ### Marketing & Sponsorship
 
