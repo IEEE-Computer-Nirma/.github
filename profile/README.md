@@ -112,7 +112,7 @@ Our technical community works on projects that provide practical experience in s
 
 | Position | Name |
 |----------|------|
-| **Creatives & Documentation** | Vishva Ghori |
+| **Creatives & Documentation** | Vishwa Ghori |
 
 ### Marketing & Sponsorship
 
