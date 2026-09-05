@@ -15,9 +15,9 @@
 > ```
 
 # IEEE Computer Society
-## Nirma University Student Branch Chapter
+## Nirma University Student Chapter
 
-Welcome to the official GitHub organization of the **IEEE Computer Society Student Branch Chapter at Nirma University**, Ahmedabad, India.
+Welcome to the official GitHub organization of the **IEEE Computer Society Student Chapter at Nirma University**, Ahmedabad, India.
 
 ## About Us
 
@@ -162,13 +162,13 @@ https://www.computer.org/
 
 ## Our Repositories
 
-Explore the repositories under this organization to discover projects, resources, event initiatives, and technical work developed by members of the IEEE Computer Society Student Branch Chapter at Nirma University.
+Explore the repositories under this organization to discover projects, resources, event initiatives, and technical work developed by members of the IEEE Computer Society Student Chapter at Nirma University.
 
 We believe that the best way to learn technology is to **build, collaborate, and share**.
 
 ---
 
 ### IEEE Computer Society
-**Nirma University Student Branch Chapter**
+**Nirma University Student Chapter**
 
 *Building a community of future technology leaders, one commit at a time.*
