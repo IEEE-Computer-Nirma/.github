@@ -152,7 +152,7 @@ You can get involved by:
 ## Connect With Us
 
 🌐 **IEEE Computer Society Nirma University**  
-https://ieee-cs-nirma.vercel.app/
+https://ieee-computer-nirma.github.io/
 
 🌐 **Nirma University**  
 https://nirmauni.ac.in/
